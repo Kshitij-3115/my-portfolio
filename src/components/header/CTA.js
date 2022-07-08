@@ -1,6 +1,6 @@
 import React from 'react'
 
-import resume from '../../assets/Kshitij_resume_v4.pdf'
+import resume from '../../assets/1906086_Kshitij_CSE.pdf'
 
 import classes from './CTA.module.css'
 
